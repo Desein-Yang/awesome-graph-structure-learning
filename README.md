@@ -2,12 +2,8 @@
 A curated list of amazingly awesome things regarding Graph Structural Learning.
 
 
-
-
-
 ## Table of Contents
 
-[TOC]
 
 ## Taxonomy
 
@@ -40,6 +36,7 @@ The learning of graph structure is a fundamental problem of a wide range of appl
 
 ## Paper List
 
+[Related Papers in 2021 CCFA Conference](./2021-ConfTrack.md)
 ### 01 Survey
 
 1.   M. J. Vowels, N. C. Camgoz, and R. Bowden, ‘D’ya like DAGs? A Survey on Structure Learning and Causal Discovery’, [*arXiv:2103.02582 [cs, stat]*](http://arxiv.org/abs/2103.02582), Mar. 2021.
